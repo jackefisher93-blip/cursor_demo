@@ -1,0 +1,4 @@
+git remote add origin https://github.com/jackefisher93-blip/cursor-demo.git
+git branch -M main
+git push -u origin main
+
